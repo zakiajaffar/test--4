@@ -1,0 +1,45 @@
+section{
+	display: flex !important;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+}
+.card{
+	margin: 10px;
+}
+.card-title{
+	text-align: center;
+    padding: 27px;
+    font-size: 31px;
+    color: white;
+    background-color: black;
+    margin: 0px;
+    margin-bottom: 0px !important;
+
+}
+.card-text{
+	text-align: center;
+	 font-size: 29px;
+}
+.list-group-item{
+	text-align: center;
+	font-size: 18px;
+}
+.card-body{
+	text-align: center;
+	background-color: #eeeeec
+}
+.btn{
+	border-radius: 0px !important;
+	font-size: 20px !important;
+}
+.card-title-1{
+	background-color: #53b050;
+	color: white;
+	text-align: center;
+    padding: 27px;
+    font-size: 31px;
+    margin: 0px;
+    margin-bottom: 0px !important;
+
+}
